@@ -22,6 +22,10 @@
   <br/>
 </div>
 
+> [!NOTE]
+> This project has been integrated into
+> [nix-community/nh](https://github.com/nix-community/nh).
+
 A small handy tool to track GitHub pull requests targeting a package in nixpkgs
 in the last `n` (default: 15) days.
 
